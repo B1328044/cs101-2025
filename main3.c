@@ -6,7 +6,7 @@ int main(){
        usigned char k = 0;
 
        k = ((j - i) / 2)+i;
-       printf("(%d+%d)/2 = %d\n" , i , j , k)
+       printf("(%d+%d)/2 = %d\n" , i , j , k);
 
 
     return 0;
